@@ -1,0 +1,10 @@
+Apartment Complex
+The goal is to build a site were you have an old apartment complex and you have to build it up
+fix the problems, get good tenants etc..
+
+Will be done in PHP/HTML/CSS/JS/JQuery
+
+It is aimed at being mostly text based, interactive story based gameplay..
+
+The folder is called Complex Manager, since I would like to do other forms of 'complexs' in the future, 
+store, school, workplace etc..
